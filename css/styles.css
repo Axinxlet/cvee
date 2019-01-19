@@ -1,0 +1,59 @@
+
+body {
+  background-color: #f3f9fb;
+  color: #69779b;
+
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightgrey;
+  border-width: 10px;
+  width: 1%;
+  padding: 50px;
+}
+
+h1 {
+  font-family: inherit;
+  font-size: 50px;
+  font-weight: normal;
+
+}
+
+p {
+  font-size: 20px;
+  text-align: right;
+}
+
+h3 {
+  font-size: 15px;
+  text-align: center;
+  font-family: fantasy;
+  font-weight: normal;
+  letter-spacing: 10px;
+}
+
+
+img {
+  border-radius: 30%;
+  opacity: 0.9;
+  width: 200px;
+  height: auto;
+
+}
+
+th,td {
+  padding: 30px;
+  font-size: 20px;
+}
+
+table {
+  margin: auto;
+}
+
+.musicexp {
+  padding: 50px;
+  margin: auto;
+  text-align: center;
+}
